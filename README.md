@@ -1,6 +1,6 @@
 # PILONGO_CPE_026
 
-###**Info**
+### **Info**
 
 **Name: Elvin Jay Pilongo**
 
@@ -8,7 +8,7 @@
 
 **Section: CPE41S2**
 
-####**Contact Info**
+#### **Contact Info**
 
 **Number: 09692183897**
 
